@@ -18,7 +18,7 @@ To run the Flask web application, execute the following command in the project d
 
 ## Viewing The App
 
-Once the application is running, you can view it by opening your web browser and navigating to your local browser (http://127.0.0.1:5000)
+Once the application is running, you can view it by opening your web browser and navigating to your local browser -- http://127.0.0.1:5000
 
 
 
