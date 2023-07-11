@@ -1,4 +1,7 @@
-# Using Flask Website
+# Notes Website
+This website is a Flask-based application that enables users to create an account, sign in, and manage their notes. Users can add new notes to their accounts, delete existing notes, and log out when they are finished. The website utilizes a combination of Flask, JavaScript, HTML, and other technologies to provide a user-friendly note-taking experience.
+
+## Using Flask Website
 
 This is a tutorial on how to set up and run a Flask web application.
 
